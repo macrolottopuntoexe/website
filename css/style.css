@@ -36,11 +36,11 @@ p {text-align: center;
 	max-width: 150px;
 }
 
-#homeimage {max-width: 30%; 
-    margin: 7px 35.1% 150px;
+#homeimage {max-width: 45%; 
+    margin: 7px 28% 150px;
     height: auto;
 	margin-bottom: 30px;
-	text-align: center;
+	text-align: center !important;
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,0.3))}
 
 .active {color: #FFC929;
@@ -119,8 +119,7 @@ p {text-align: center;
 	color: #F7C327;
 	font-family: 'Quicksand', sans-serif}
 
-.rounded.float-start {max-width: 300px;
-	}
+.rounded.float-start {max-width: 300px;}
 .rounded.float-center {max-width: 300px;}
 .rounded.float-end {max-width: 300px;}
 
@@ -131,19 +130,16 @@ p {text-align: center;
 	font-family: 'Quicksand', sans-serif;}
 
 .title2 {text-align: left;
-	margin-left: 200px;
 	margin-top: 20px;
 	color: #008586;
 	font-family: 'Quicksand', sans-serif;}
 
 .contact2 {text-align: left;
-	margin-left: 200px;
 	margin-bottom: 349px;
 	margin-top: 10px;
 	font-family: 'Quicksand', sans-serif;}
 
 .contact {text-align: left;
-	margin-left: 200px;
 	margin-top: 10px;
 	font-family: 'Quicksand', sans-serif;}
 
